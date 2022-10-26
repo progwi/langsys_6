@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "8417ccb4-0422-4803-99f3-b73818cd39a5",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/saludar/Maru/Scheffer",
+    "url": "http://localhost:8080/saludar/Maru/Scheffer",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-10-19T20:18:42.460Z",
+    "modified": "2022-10-19T20:19:48.905Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]

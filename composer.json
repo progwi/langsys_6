@@ -1,0 +1,27 @@
+{
+	"require": {
+		"doctrine/orm": "^2.11.0",
+		"doctrine/dbal": "^3.2",
+		"doctrine/annotations": "1.13.2",
+		"symfony/yaml": "^5.4",
+		"symfony/cache": "^5.4",
+		"php": "^7.4 || ^8.0",
+		"ext-json": "*",
+		"monolog/monolog": "^2.8",
+		"php-di/php-di": "^6.4",
+		"slim/psr7": "^1.5",
+		"slim/slim": "^4.10"	
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+	"scripts": {
+		"createdb": "./vendor/bin/doctrine orm:schema-tool:create",
+		"updatedb": "./vendor/bin/doctrine orm:schema-tool:update --complete --force",
+		"dropdb": "./vendor/bin/doctrine orm:schema-tool:drop --force",
+		"initialize": "php ./src/initialize.php",
+		"start": "php -S localhost:8080 -t public"
+	}
+}

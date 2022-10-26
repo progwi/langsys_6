@@ -1,0 +1,22 @@
+[
+	{
+		"id": "0",
+		"name": "guest"
+	},
+	{
+		"id": "1",
+		"name": "student"
+	},
+	{
+		"id": "2",
+		"name": "professor"
+	},
+	{
+		"id": "3",
+		"name": "admin"
+	},
+	{
+		"id": "4",
+		"name": "developer"
+	}
+]

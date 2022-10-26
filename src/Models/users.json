@@ -1,0 +1,137 @@
+[
+	{
+		"name": "mscheffer",
+		"email": "mscheffer@gmail.com",
+		"password": "123",
+		"roles": [
+			2,
+			3
+		],
+		"person": {
+			"firstName": "Maru",
+			"lastName": "Scheffer"
+		}
+	},
+	{
+		"name": "lolguin",
+		"email": "lolguin@iinfo.unsj.edu.ar",
+		"password": "1234",
+		"roles": [
+			1
+		],
+		"person": {
+			"firstName": "Luis Alberto",
+			"lastName": "Olguín"
+		}
+	},
+	{
+		"name": "eormeno",
+		"email": "eormeno@gmail.com",
+		"roles": [
+			4
+		],
+		"person": {
+			"firstName": "Emilio",
+			"lastName": "Ormeño"
+		}
+	},
+	{
+		"name": "jgomez",
+		"email": "jgomez@mail.com",
+		"roles": [
+			2
+		],
+		"person": {
+			"firstName": "Pedro",
+			"lastName": "Gomez"
+		}
+	},
+	{
+		"name": "jlopez",
+		"email": "jlopez@mail.com",
+		"roles": [
+			2
+		],
+		"person": {
+			"firstName": "José",
+			"lastName": "Lopez"
+		}
+	},
+	{
+		"name": "jrodriguez",
+		"email": "jrodri@mail.com",
+		"roles": [
+			2
+		],
+		"person": {
+			"firstName": "Juan",
+			"lastName": "Rodriguez"
+		}
+	},
+	{
+		"name": "jmartinez",
+		"email": "jmartinez@mail.com",
+		"roles": [
+			2
+		],
+		"person": {
+			"firstName": "José",
+			"lastName": "Martinez"
+		}
+	},
+	{
+		"name": "jgonzalez",
+		"email": "jgonzalez@mail.com",
+		"roles": [
+			2
+		],
+		"person": {
+			"firstName": "Juan",
+			"lastName": "Gonzalez"
+		}
+	},
+	{
+		"name": "jgutierrez",
+		"email": "jguti@pepito.com",
+		"roles": [
+			2,3
+		],
+		"person": {
+			"firstName": "José",
+			"lastName": "Gutierrez"
+		}
+	},
+	{
+		"name": "jfernandez",
+		"email": "jfernandez@toto.com",
+		"roles": [
+			2,3
+		],
+		"person": {
+			"firstName": "Juan",
+			"lastName": "Fernandez"
+		}
+	},
+	{
+		"name": "jrojas",
+		"email": "jrojas@pirulo.com",
+		"roles": [
+			2,3
+		],
+		"person": {
+			"firstName": "José",
+			"lastName": "Rojas"
+		}
+	},
+	{
+		"name": "jramirez",
+		"email": "jramirez@mail.com",
+		"roles": [
+			2,3
+		],
+		"person": {
+			"firstName": "Juan",
+			"lastName": "Ramirez"
+		}
+	}
+]

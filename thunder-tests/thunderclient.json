@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "e10ba65a-a238-44eb-936f-d055d6fe9c19",
+    "colId": "1e9e1e1e-46df-4387-acbb-1449683ec671",
+    "containerId": "",
+    "name": "primera prueba",
+    "url": "http://localhost:8080/saludar/Maru/Scheffer",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2022-10-19T20:22:52.426Z",
+    "modified": "2022-10-19T20:22:52.426Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
